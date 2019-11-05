@@ -3,7 +3,7 @@ import mongoose from 'mongoose';
 
 import User from '../app/models/User';
 import File from '../app/models/File';
-import Appoitment from '../app/models/Appoitment';
+import Appoitment from '../app/models/Appointment';
 
 import databaseConfig from '../config/database';
 
